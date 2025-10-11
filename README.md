@@ -78,20 +78,20 @@ pickle
 ```
 ## Recommended Execution Order
 
-Train models on German Credit
+- Train models on German Credit
 
-Train models on Australian Credit
+- Train models on Australian Credit
 
-Generate synthetic datasets
+- Generate synthetic datasets
 
-Run the Evaluation & Results notebook
+- Run the Evaluation & Results notebook
 
 ## Outputs
 
 The notebooks produce the following artifacts:
 
-Trained models (.pkl)
+- Trained models (.pkl)
 
-Synthetic datasets (.csv)
+- Synthetic datasets (.csv)
 
-Evaluation metrics, plots, and summary tables
+- Evaluation metrics, plots, and summary tables
